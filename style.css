@@ -84,6 +84,10 @@ html,body{
     text-decoration: none;
 }
 
+#nav #links a:hover {
+    color: greenyellow;
+}
+
 #nav #links #button{
     background-color: transparent;
     border: 1px solid green;
